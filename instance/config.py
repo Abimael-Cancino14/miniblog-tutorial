@@ -1,3 +1,3 @@
 # instance/config.py
 
-SQLALCHEMY_DATABASE_URI = 'postgres://postgres14:n9fcYI3IZw4VNQPpb5YxZxmAD9pY9WKS@dpg-ck6tvvo8elhc73e6i0jg-a/renderminiblog'
+SQLALCHEMY_DATABASE_URI = 'postgres://miniblogdatabase_user:Cdi9e4WOmfNNDXNE8CK19Td2lgRWdi3t@dpg-ck70pe7q54js73b6eapg-a/miniblogdatabase'
